@@ -1,7 +1,7 @@
 
 # Covid India tracking
 
-The prject helps in getting latest information of India covid stats.
+The project helps in getting latest information of India covid stats.
 Get Latest daily updates of covid
 
 ## Deployment
